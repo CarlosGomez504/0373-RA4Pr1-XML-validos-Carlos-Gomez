@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumne SYSTEM "alumne.dtd">
+
+<alumne id="CG-2026" tipus="distancia">
+
+  <nom>Carlos</nom>
+  <cognom>Gómez</cognom>
+
+  <telefon>664726777</telefon>
+  <email>cgomezh25@ilb.cat</email>
+
+  <modul>Llenguatges de Marques</modul>
+  <modul>Sistemes Informàtics</modul>
+  <modul>Bases de Dades</modul>
+
+</alumne>

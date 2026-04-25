@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona dni="G559130" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:noNamespaceSchemaLocation="persona.xsd">
+    
+    <nom>Carlos</nom>
+    <edat>22</edat>
+    <ciutat>Sabadell</ciutat>
+    
+    <aficio>Series</aficio>
+    <aficio>Computadoras</aficio>
+    <aficio>Futbol</aficio>
+    <aficio>Comer</aficio>
+    <aficio>Escuchar musica</aficio>
+    
+    <nivell>alt</nivell>
+    
+</persona>

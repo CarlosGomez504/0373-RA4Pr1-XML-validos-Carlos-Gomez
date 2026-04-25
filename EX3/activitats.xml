@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE activitats SYSTEM "activitats.dtd">
+<activitats>
+    
+    <activitat codi="DEPORTE" tipus="esportiva">
+        <nom>Baloncesto Sabadell</nom>
+        <monitor>Ricardo Gómez</monitor>
+        <horari>Martes y Jueves a las 18:00</horari>
+        <participant>Carlos Gómez</participant>
+        <participant>Sergio Ruiz</participant>
+        <lloc>
+            <interior>Pabellón Municipal</interior>
+        </lloc>
+    </activitat>
+    
+    <activitat codi="MUSICA" tipus="artistica">
+        <nom>Guitarra Española</nom>
+        <monitor>Elena Martínez</monitor>
+        <participant>Lucía Fernández</participant>
+        <lloc>
+            <interior>Aula de Música</interior>
+        </lloc>
+    </activitat>
+    
+</activitats>

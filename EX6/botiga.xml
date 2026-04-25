@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="botiga.xsd">
+    
+    <producte id="P1" estat="nou">
+        <nom>Balon de Futbol</nom>
+        <preu>20.00</preu>
+        <stock>100</stock>
+        <categoria>joguines</categoria>
+        <marca>Adidas</marca>
+        <etiqueta>deporte</etiqueta>
+    </producte>
+    
+    <producte id="P2" estat="oferta">
+        <nom>Mouse</nom>
+        <preu>10.50</preu>
+        <stock>50</stock>
+        <categoria>informatica</categoria>
+        <marca>Logitech</marca>
+        <etiqueta>pc</etiqueta>
+    </producte>
+    
+    <producte id="P3" estat="esgotat">
+        <nom>Comic de Spiderman</nom>
+        <preu>3.99</preu>
+        <stock>0</stock>
+        <categoria>llibres</categoria>
+        <etiqueta>marvel</etiqueta>
+        <etiqueta>lectura</etiqueta>
+    </producte>
+    
+</botiga>
